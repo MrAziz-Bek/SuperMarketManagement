@@ -1,0 +1,37 @@
+using CoreBusiness;
+using System.Reflection.Emit;
+using Microsoft.EntityFrameworkCore;
+
+namespace Plugins.DataStore.SQL;
+public class MarketContext : DbContext
+{
+    public DbSet<Category> Categories { get; set; }
+
+    public DbSet<Product> Products { get; set; }
+
+    public DbSet<Transaction> Transactions { get; set; }
+
+    public MarketContext(DbContextOptions options)
+        : base(options) { }
+
+    protected override void OnModelCreating(ModelBuilder builder)
+    {
+        builder.Entity<Category>()
+            .HasMany(c => c.Products)
+            .WithOne(p => p.Category)
+            .HasForeignKey(p => p.CategoryId);
+
+        builder.Entity<Category>().HasData(
+            new Category() { CategoryId = 1, Name = "Beverage", Description = "Beverage" },
+            new Category() { CategoryId = 2, Name = "Bakery", Description = "Bakery" },
+            new Category() { CategoryId = 3, Name = "Meat", Description = "Meat" }
+        );
+
+        builder.Entity<Product>().HasData(
+            new Product() { ProductId = 1, CategoryId = 1, Name = "Iced Tea", Quantity = 100, Price = 1.99 },
+            new Product() { ProductId = 2, CategoryId = 1, Name = "Canada Dry", Quantity = 200, Price = 1.99 },
+            new Product() { ProductId = 3, CategoryId = 2, Name = "Whole Wheat Bread", Quantity = 300, Price = 1.50 },
+            new Product() { ProductId = 4, CategoryId = 2, Name = "White Bread", Quantity = 300, Price = 1.50 }
+        );
+    }
+}

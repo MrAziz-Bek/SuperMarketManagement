@@ -1,0 +1,12 @@
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/CoreBusiness/bin/Debug/net6.0/CoreBusiness.deps.json
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/CoreBusiness/bin/Debug/net6.0/CoreBusiness.dll
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/CoreBusiness/bin/Debug/net6.0/CoreBusiness.pdb
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/CoreBusiness/obj/Debug/net6.0/CoreBusiness.csproj.AssemblyReference.cache
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/CoreBusiness/obj/Debug/net6.0/CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/CoreBusiness/obj/Debug/net6.0/CoreBusiness.AssemblyInfoInputs.cache
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/CoreBusiness/obj/Debug/net6.0/CoreBusiness.AssemblyInfo.cs
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/CoreBusiness/obj/Debug/net6.0/CoreBusiness.csproj.CoreCompileInputs.cache
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/CoreBusiness/obj/Debug/net6.0/CoreBusiness.dll
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/CoreBusiness/obj/Debug/net6.0/ref/CoreBusiness.dll
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/CoreBusiness/obj/Debug/net6.0/CoreBusiness.pdb
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/CoreBusiness/obj/Debug/net6.0/refint/CoreBusiness.dll

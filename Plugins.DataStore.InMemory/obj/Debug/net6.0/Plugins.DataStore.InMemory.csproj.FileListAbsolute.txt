@@ -1,0 +1,17 @@
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/Plugins.DataStore.InMemory/bin/Debug/net6.0/Plugins.DataStore.InMemory.deps.json
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/Plugins.DataStore.InMemory/bin/Debug/net6.0/Plugins.DataStore.InMemory.dll
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/Plugins.DataStore.InMemory/bin/Debug/net6.0/Plugins.DataStore.InMemory.pdb
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/Plugins.DataStore.InMemory/bin/Debug/net6.0/CoreBusiness.dll
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/Plugins.DataStore.InMemory/bin/Debug/net6.0/UseCases.dll
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/Plugins.DataStore.InMemory/bin/Debug/net6.0/UseCases.pdb
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/Plugins.DataStore.InMemory/bin/Debug/net6.0/CoreBusiness.pdb
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/Plugins.DataStore.InMemory/obj/Debug/net6.0/Plugins.DataStore.InMemory.csproj.AssemblyReference.cache
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/Plugins.DataStore.InMemory/obj/Debug/net6.0/Plugins.DataStore.InMemory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/Plugins.DataStore.InMemory/obj/Debug/net6.0/Plugins.DataStore.InMemory.AssemblyInfoInputs.cache
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/Plugins.DataStore.InMemory/obj/Debug/net6.0/Plugins.DataStore.InMemory.AssemblyInfo.cs
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/Plugins.DataStore.InMemory/obj/Debug/net6.0/Plugins.DataStore.InMemory.csproj.CoreCompileInputs.cache
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/Plugins.DataStore.InMemory/obj/Debug/net6.0/Plugins.DataStore.InMemory.csproj.CopyComplete
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/Plugins.DataStore.InMemory/obj/Debug/net6.0/Plugins.DataStore.InMemory.dll
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/Plugins.DataStore.InMemory/obj/Debug/net6.0/ref/Plugins.DataStore.InMemory.dll
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/Plugins.DataStore.InMemory/obj/Debug/net6.0/Plugins.DataStore.InMemory.pdb
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/Plugins.DataStore.InMemory/obj/Debug/net6.0/refint/Plugins.DataStore.InMemory.dll

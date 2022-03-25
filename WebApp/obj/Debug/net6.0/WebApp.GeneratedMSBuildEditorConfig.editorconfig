@@ -1,0 +1,140 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApp
+build_property.RootNamespace = WebApp
+build_property.ProjectDir = /Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/Controls/SelectProductForSellingComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHMvU2VsZWN0UHJvZHVjdEZvclNlbGxpbmdDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/Controls/SellProductComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHMvU2VsbFByb2R1Y3RDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/Controls/TodayTransactionComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udHJvbHMvVG9kYXlUcmFuc2FjdGlvbkNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/Pages/AddCategory.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRkQ2F0ZWdvcnkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/Pages/AddProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRkUHJvZHVjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/Pages/CashierConsoleComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FzaGllckNvbnNvbGVDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/Pages/CategoriesComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2F0ZWdvcmllc0NvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/Pages/EditCategory.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRWRpdENhdGVnb3J5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/Pages/EditProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRWRpdFByb2R1Y3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/Pages/ProductsComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdHNDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/Pages/TransactionsReportComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVHJhbnNhY3Rpb25zUmVwb3J0Q29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-iymxgj1jkn
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-0rpgcxawqx
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9fVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

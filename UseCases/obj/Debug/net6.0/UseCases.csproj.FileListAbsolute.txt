@@ -1,0 +1,15 @@
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/UseCases/bin/Debug/net6.0/UseCases.deps.json
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/UseCases/bin/Debug/net6.0/UseCases.dll
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/UseCases/bin/Debug/net6.0/UseCases.pdb
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/UseCases/bin/Debug/net6.0/CoreBusiness.dll
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/UseCases/bin/Debug/net6.0/CoreBusiness.pdb
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/UseCases/obj/Debug/net6.0/UseCases.csproj.AssemblyReference.cache
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/UseCases/obj/Debug/net6.0/UseCases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/UseCases/obj/Debug/net6.0/UseCases.AssemblyInfoInputs.cache
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/UseCases/obj/Debug/net6.0/UseCases.AssemblyInfo.cs
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/UseCases/obj/Debug/net6.0/UseCases.csproj.CoreCompileInputs.cache
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/UseCases/obj/Debug/net6.0/UseCases.csproj.CopyComplete
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/UseCases/obj/Debug/net6.0/UseCases.dll
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/UseCases/obj/Debug/net6.0/ref/UseCases.dll
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/UseCases/obj/Debug/net6.0/UseCases.pdb
+/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/UseCases/obj/Debug/net6.0/refint/UseCases.dll

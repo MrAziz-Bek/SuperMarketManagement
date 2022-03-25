@@ -1,0 +1,356 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/WebApp.csproj": {}
+  },
+  "projects": {
+    "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/CoreBusiness/CoreBusiness.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/CoreBusiness/CoreBusiness.csproj",
+        "projectName": "CoreBusiness",
+        "projectPath": "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/CoreBusiness/CoreBusiness.csproj",
+        "packagesPath": "/Users/azizbekboboyev/.nuget/packages/",
+        "outputPath": "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/CoreBusiness/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/azizbekboboyev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/Plugins.DataStore.InMemory/Plugins.DataStore.InMemory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/Plugins.DataStore.InMemory/Plugins.DataStore.InMemory.csproj",
+        "projectName": "Plugins.DataStore.InMemory",
+        "projectPath": "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/Plugins.DataStore.InMemory/Plugins.DataStore.InMemory.csproj",
+        "packagesPath": "/Users/azizbekboboyev/.nuget/packages/",
+        "outputPath": "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/Plugins.DataStore.InMemory/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/azizbekboboyev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/UseCases/UseCases.csproj": {
+                "projectPath": "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/UseCases/UseCases.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/Plugins.DataStore.SQL/Plugins.DataStore.SQL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/Plugins.DataStore.SQL/Plugins.DataStore.SQL.csproj",
+        "projectName": "Plugins.DataStore.SQL",
+        "projectPath": "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/Plugins.DataStore.SQL/Plugins.DataStore.SQL.csproj",
+        "packagesPath": "/Users/azizbekboboyev/.nuget/packages/",
+        "outputPath": "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/Plugins.DataStore.SQL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/azizbekboboyev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/CoreBusiness/CoreBusiness.csproj": {
+                "projectPath": "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/CoreBusiness/CoreBusiness.csproj"
+              },
+              "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/UseCases/UseCases.csproj": {
+                "projectPath": "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/UseCases/UseCases.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "microsoft.entityframeworkcore": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "microsoft.entityframeworkcore.design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "microsoft.entityframeworkcore.sqlserver": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "microsoft.entityframeworkcore.tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/UseCases/UseCases.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/UseCases/UseCases.csproj",
+        "projectName": "UseCases",
+        "projectPath": "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/UseCases/UseCases.csproj",
+        "packagesPath": "/Users/azizbekboboyev/.nuget/packages/",
+        "outputPath": "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/UseCases/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/azizbekboboyev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/CoreBusiness/CoreBusiness.csproj": {
+                "projectPath": "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/CoreBusiness/CoreBusiness.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/WebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/WebApp.csproj",
+        "projectName": "WebApp",
+        "projectPath": "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/WebApp.csproj",
+        "packagesPath": "/Users/azizbekboboyev/.nuget/packages/",
+        "outputPath": "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/WebApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/azizbekboboyev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/CoreBusiness/CoreBusiness.csproj": {
+                "projectPath": "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/CoreBusiness/CoreBusiness.csproj"
+              },
+              "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/Plugins.DataStore.InMemory/Plugins.DataStore.InMemory.csproj": {
+                "projectPath": "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/Plugins.DataStore.InMemory/Plugins.DataStore.InMemory.csproj"
+              },
+              "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/Plugins.DataStore.SQL/Plugins.DataStore.SQL.csproj": {
+                "projectPath": "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/Plugins.DataStore.SQL/Plugins.DataStore.SQL.csproj"
+              },
+              "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/UseCases/UseCases.csproj": {
+                "projectPath": "/Users/azizbekboboyev/Developer/vscode/webproj/SuperMarketManagement/UseCases/UseCases.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "microsoft.aspnetcore.identity.entityframeworkcore": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "microsoft.entityframeworkcore.design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "microsoft.entityframeworkcore.sqlserver": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

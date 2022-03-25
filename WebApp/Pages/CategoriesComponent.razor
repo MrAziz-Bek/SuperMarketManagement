@@ -1,0 +1,67 @@
+﻿@page "/categories"
+@inject NavigationManager NavigationManager
+@inject IViewCategoriesUseCase ViewCategoriesUseCase
+@inject IDeleteCategoryUseCase DeleteCategoryUseCase
+
+<h3>Manage Categories</h3>
+
+@if(Categories is not null)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th></th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach(var Category in Categories)
+            {
+            <tr>
+                <td>@Category.Name</td>
+                <td>@Category.Description</td>
+                <td>
+                    <button type="button" class="btn btn-info" @onclick="@(() => EditCategory(Category))">Edit</button>
+                    &nbsp;
+                    <button type="submit" class="btn btn-danger" @onclick="@(() => DeleteCategory(Category.CategoryId))">Delete</button>
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+}
+<br/>
+
+<button type="submit" class="btn btn-primary" @onclick="OnClickAddCategory">Add Category</button>
+
+@code {
+    private IEnumerable<Category> Categories;
+
+    protected override void OnInitialized()
+    {
+        LoadCategories();
+    }
+
+    private void OnClickAddCategory()
+    {
+        NavigationManager.NavigateTo("/addcategory");
+    }
+
+    private void EditCategory(Category category)
+    {
+        NavigationManager.NavigateTo($"/editcategory/{category.CategoryId}");
+    }
+
+    private void DeleteCategory(int categoryId)
+    {
+        DeleteCategoryUseCase.Delete(categoryId);
+        LoadCategories();
+    }
+
+    private void LoadCategories()
+    {
+        Categories = ViewCategoriesUseCase.Execute().ToList();
+    }
+}
